@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+pdfplumber
+re
+sqlite3
+unicodedata
+pyspellchecker
